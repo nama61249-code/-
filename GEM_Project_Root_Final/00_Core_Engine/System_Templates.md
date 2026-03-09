@@ -57,9 +57,6 @@ Equip: 帰還の腕輪
 Money: {{money}} G
 Debt: {{debt}} G
 
-[Desire_Data]
-{{user_desire_tags}}
-
 ============================================================
 [PARTY_MEMBER_1] (※いる場合のみ。いなければ省略)
 Name: {{name}} ({{english_name}})
